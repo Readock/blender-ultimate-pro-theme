@@ -1,6 +1,6 @@
-# Blender Pro theme
+# Blender Ultimate Pro theme
 Blender 2.8 dark-mode.
-* [Download](https://github.com/Thirioart/blender_pro-theme/archive/master.zip)
+* [Download](https://github.com/Readock/blender_pro-theme/releases/download/v1.0/blender_pro.xml)
 
 
 # Install
